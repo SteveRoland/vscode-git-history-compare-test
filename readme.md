@@ -1,6 +1,8 @@
 # vscode 의 git history plugin 오류 테스트.
 
-## 상태 (진행중)
+## 상태 (완료)
+Version 0.3.5 에 반영됨. (fixed)
+
 https://github.com/DonJayamanne/gitHistoryVSCode/issues/197
 
 ## 증상
